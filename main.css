@@ -1,0 +1,71 @@
+.first-section{
+  background-image:url("./images/hero.png");
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+}
+
+.second-page-second-section{
+  background: url("./images/meet-the-team.png");
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+}
+
+.nav li{
+  margin:10px;
+  font-size: 23px
+}
+
+.rotate{
+  transform: rotate(90deg);
+  position: relative;
+  left:50px;
+}
+
+.second-page-two{
+   background: #890906;
+
+}
+
+.heading-text{
+  margin-top: 90px;
+  margin-left: 40px;
+}
+
+.key{
+
+  color: #354147;
+}
+
+
+.third-section{
+  background: #354147;
+
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+}
+
+.fourth-section{
+  padding:0;
+  margin:0;
+  display: flex;
+}
+
+
+.fith-section{
+background: #890906;
+
+}
+
+ul{
+  list-style-type: none;
+}
+
+.footer li{
+  color:white;
+margin:20px;
+}
